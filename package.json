@@ -1,0 +1,23 @@
+{
+  "name": "studentapp-middleware-api",
+  "version": "1.0.0",
+  "description": "test server",
+  "main": "src/index.js",
+  "scripts": {
+    "serve": "node ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoshUptons/server_test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoshUptons/server_test/issues"
+  },
+  "homepage": "https://github.com/JoshUptons/server_test#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
